@@ -4,7 +4,7 @@
 <p align="center"><b>An open-source project that aims to gather proposals and experiences of GSoC across the years</b></p>
 
 
-## Contribution:
+## Contribution
 
 If you have previously applied for GSoC, you might help build this repo by contributing the proposals you submitted or by sharing your experience in GSoC.
 
